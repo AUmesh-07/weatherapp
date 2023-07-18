@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/todoapp/static/css/main.1f237c09.css",
-    "main.js": "/todoapp/static/js/main.2451a8b2.js",
-    "index.html": "/todoapp/index.html",
-    "main.1f237c09.css.map": "/todoapp/static/css/main.1f237c09.css.map",
-    "main.2451a8b2.js.map": "/todoapp/static/js/main.2451a8b2.js.map"
+    "main.css": "/weatherapp/static/css/main.1f237c09.css",
+    "main.js": "/weatherapp/static/js/main.2451a8b2.js",
+    "index.html": "/weatherapp/index.html",
+    "main.1f237c09.css.map": "/weatherapp/static/css/main.1f237c09.css.map",
+    "main.2451a8b2.js.map": "/weatherapp/static/js/main.2451a8b2.js.map"
   },
   "entrypoints": [
     "static/css/main.1f237c09.css",
